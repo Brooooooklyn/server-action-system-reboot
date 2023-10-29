@@ -20,9 +20,7 @@ import { reboot } from '@napi-rs/system-shutdown'
     reboot()
   }}
 >
-  <Button
-  >
-    </svg>
+  <Button>
     Reboot
   </Button>
 </form>
